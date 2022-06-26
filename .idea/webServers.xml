@@ -2,12 +2,15 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="6e6cc329-4094-40e7-b43e-129beb1ba45d" name="projectUniTrier" url="https://projectunitrier.000webhostapp.com/">
-        <fileTransfer accessType="SFTP" sshConfigId="efdedc70-ae57-4375-8007-229115ea070e" sshConfig="projectUniTrier">
+      <webServer id="6e6cc329-4094-40e7-b43e-129beb1ba45d" name="projectUniTrier" url="projectunitrier.000webhostapp.com">
+        <fileTransfer host="files.000webhost.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
+      </webServer>
+      <webServer id="91513965-6eba-48b2-8ea3-ee86e2a20750" name="LocalHtdocs" url="http://localhost">
+        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" port="0" />
       </webServer>
     </option>
   </component>

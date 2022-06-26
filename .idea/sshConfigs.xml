@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="efdedc70-ae57-4375-8007-229115ea070e" customName="projectUniTrier" nameFormat="CUSTOM" useOpenSSHConfig="true">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="projectunitrier.000webhostapp.com" id="efdedc70-ae57-4375-8007-229115ea070e" port="22" customName="projectUniTrier" nameFormat="CUSTOM" username="polseal" useOpenSSHConfig="true">
         <option name="customName" value="projectUniTrier" />
       </sshConfig>
     </configs>

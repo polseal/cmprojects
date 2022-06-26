@@ -2,10 +2,17 @@
 <project version="4">
   <component name="PublishConfigData" serverName="projectUniTrier" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="projectUniTrier">
+      <paths name="LocalHtdocs">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="projectUniTrier">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

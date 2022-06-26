@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e6cc329-4094-40e7-b43e-129beb1ba45d" name="projectUniTrier" url="https://projectunitrier.000webhostapp.com/">
+        <fileTransfer accessType="SFTP" sshConfigId="efdedc70-ae57-4375-8007-229115ea070e" sshConfig="projectUniTrier">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
